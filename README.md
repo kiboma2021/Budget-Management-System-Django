@@ -9,6 +9,7 @@
 -  PostgreSQL (database)
 -  Visual Studio Code (code editor)
 -  Bootstrap (Styling)
+- Gitflow
 
 ### Setup
 
