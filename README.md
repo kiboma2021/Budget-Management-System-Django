@@ -33,6 +33,13 @@ Cloning a repository
 
 - Type `git clone`, and then paste the URL you copied earlier;
 
+- Create .env file and add database autentication
+
+        export DB_NAME
+        export DB_USER
+        export DB_USER_PASSWORD
+        export DB_HOST
+        export DB_PORT
 ## Author
 
 👤 **Ben Kiboma**
